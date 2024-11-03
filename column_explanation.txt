@@ -1,0 +1,29 @@
+
+- Alcohol: El contenido de alcohol en el vino afecta su cuerpo y sabor. Los vinos con mayor contenido de alcohol suelen ser más robustos y cálidos en boca.
+- Ácido málico: Es uno de los ácidos principales en el vino, contribuyendo a su frescura y acidez. Durante la fermentación maloláctica, el ácido málico se convierte en ácido láctico, suavizando el vino.
+- Cenizas: Representan los minerales presentes en el vino. Un mayor contenido de cenizas puede indicar un vino más complejo y estructurado.
+- Alcántanos de cenizas: Se refiere a la alcalinidad de las cenizas, que puede influir en el equilibrio y la estabilidad del vino.
+- Magnesio: Es un mineral que puede afectar la fermentación y el sabor del vino. Niveles adecuados de magnesio son importantes para la salud de las levaduras durante la fermentación.
+- Fenoles totales: Incluyen todos los compuestos fenólicos en el vino, que contribuyen a su color, sabor y capacidad de envejecimiento.
+- Flavonoides: Son un tipo de fenoles que aportan color y antioxidantes al vino. Son importantes para la estructura y el envejecimiento del vino.
+- Fenoles no flavonoides: Incluyen compuestos como los ácidos fenólicos, que también influyen en el sabor y la estabilidad del vino.
+- Proantocianinas: Son compuestos fenólicos que contribuyen al color y astringencia del vino, especialmente en los tintos.
+- Intensidad de color: Mide la profundidad del color del vino, que puede indicar su concentración y potencial de envejecimiento.
+- Tono: Se refiere al matiz del color del vino. Por ejemplo, un vino tinto puede tener tonos púrpuras, rubí o marrones, dependiendo de su edad y variedad de uva.
+- OD280: Es una medida de la absorbancia a 280 nm, utilizada para estimar la cantidad de compuestos fenólicos en el vino.
+- Prolina: Es un aminoácido presente en el vino, que puede influir en su sabor y estabilidad.
+
+
+- Alcohol: mayor valor == vinos suelen ser más robustos y cálidos en boca.
+- Ácido málico: suaviza el vino.
+- Cenizas: Mayor valor == vino más complejo y estructurado.
+- Alcántanos de cenizas: puede influir en el equilibrio y la estabilidad del vino.
+- Magnesio: niveles adecuados de magnesio son importantes para la salud de las levaduras durante la fermentación.
+- Fenoles totales: Incluyen todos los compuestos fenólicos en el vino, que contribuyen a su color, sabor y capacidad de envejecimiento.
+- Flavonoides: aportan color y antioxidantes al vino. Son importantes para la estructura y el envejecimiento del vino.
+- Fenoles no flavonoides: influyen en el sabor y la estabilidad del vino.
+- Proantocianinas: Son compuestos fenólicos que contribuyen al color y astringencia del vino, especialmente en los tintos. --> RELACION FENOLES
+- Intensidad de color: Mide la profundidad del color del vino, que puede indicar su concentración y potencial de envejecimiento.
+- Tono: Se refiere al matiz del color del vino. Por ejemplo, un vino tinto puede tener tonos púrpuras, rubí o marrones, dependiendo de su edad y variedad de uva.
+- OD280: Es una medida de la absorbancia a 280 nm, utilizada para estimar la cantidad de compuestos fenólicos en el vino.
+- Prolina: aminoácido influir en su sabor y estabilidad.
